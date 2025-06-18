@@ -1,0 +1,29 @@
+{
+    "id": "18b4c9df-7999-5bbd-7e10-919afed68400",
+    "nodesData": {
+        "id": "18b4c9df-7999-5bbd-7e10-919afed68400",
+        "job_nodes": []
+    },
+    "nodeEdges": {
+        "id": "18b4c9df-7999-5bbd-7e10-919afed68400",
+        "edges": []
+    },
+    "pipeLines": {
+        "id": "18b4c9df-7999-5bbd-7e10-919afed68400",
+        "job_name": "Pipelines",
+        "run_type": "",
+        "Global_variables": [],
+        "Pipeline_variables": [],
+        "settings": {
+            "concurrancy": "",
+            "elapsed_time_metric": "",
+            "isElapsedTimeMetricChecked": false
+        },
+        "connections": [],
+        "tasks": [],
+        "isStarted": true,
+        "triggers": [],
+        "reRun": false,
+        "readOnly": false
+    }
+}
